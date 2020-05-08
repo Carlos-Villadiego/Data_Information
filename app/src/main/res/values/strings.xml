@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Data Information</string>
+    <string name="txtnombre">Escriba su nombre</string>
+    <string name="txtdoc">Digite su documento</string>
+    <string name="txtsalario">Digite su salario</string>
+    <string name="btnregistrar">REGISTRAR</string>
+    <string name="btnlistar">LISTAR</string>
+    <string name="document">Documento: </string>
+    <string name="Stratum">Estrato: </string>
+    <string name="salary">Salario: </string>
+    <string name="education">Nivel educativo: </string>
+    <string name="name">Nombre:</string>
+    <string name="texto_actualizar">ACTUALIZAR</string>
+    <string name="texto_eliminar">CANCELAR</string>
+    <string name="modificar_registro">Modificar</string>
+    <string name="borrar_registro">Eliminar</string>
+    <string name="txtnamelist">Lista de personas</string>
+    <string-array name="education">
+        <item>Seleccione su nivel educativo</item>
+        <item>Bachillerato</item>
+        <item>Pregrado</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+    <string-array name="stratum">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
